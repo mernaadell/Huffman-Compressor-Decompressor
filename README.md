@@ -1,2 +1,2 @@
 # Huffman-Compressor-Decompressor
-enter the file path then get the comressed file (name of old file +s) then use this file to decomress the old one
+enter the file path ex: /home/merna/Desktop/sample.txt <br>then get the comressed file (name of old file +s) then use this file to decomress the old one
